@@ -1,0 +1,19 @@
+#tieude{
+    display: flex;
+    flex-direction: column;
+}
+#anh{
+    flex-direction: column;
+    margin-left: 70px;
+    height: 15%;
+    width: 20%;
+}
+.box{
+    border: 2px solid black;
+    padding: 10px;
+    width: 40% ;
+}
+#h1{
+    font-size: 50px;
+    font-family: fantasy;
+}
